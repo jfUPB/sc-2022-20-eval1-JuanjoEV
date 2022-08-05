@@ -6,8 +6,8 @@ Texto corto xd
 
 https://minecraft.fandom.com/wiki/Creeper
 
-clonar : git clone https://github.com/jfUPB/sc-2022-20-eval1-JuanjoEV
-agregar al stage.c : git add archivo.extension
-commit : git commit -m "mensaje de sustentacion del cambio"
-sincronizar con el remoto : git push  
+1. clonar : git clone https://github.com/jfUPB/sc-2022-20-eval1-JuanjoEV
+2. agregar al stage.c : git add archivo.extension
+3. commit : git commit -m "mensaje de sustentacion del cambio"
+4. sincronizar con el remoto : git push  
 
